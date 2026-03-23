@@ -34,7 +34,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Qwerdle</h3>
       <p align="center">
-        A full-stack Wordle clone with user authentication, a Word of the Day feature powered by a dictionary API, and player statistics.
+        A full-stack Wordle clone with user authentication, a Word of the Day feature powered by a dictionary API, unlimited random games, and player statistics.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
@@ -48,7 +48,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Dungeon Crawler</h3>
       <p align="center">
-        A proof-of-concept, old-school, text-based, fantasy dungeon-crawler written in Java as a CLI application.
+        A proof-of-concept, old-school, text-based, fantasy dungeon-crawler written in Java as a CLI application with custom-built code for its systems and gameloop.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
